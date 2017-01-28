@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RugbyScore</string>
+
+    <string name="button_penalty_try">Penalty Try</string>
+    <string name="button_convension">Convension</string>
+    <string name="button_penalty_goal">Penalty Goal</string>
+    <string name="button_drop_goal">Drop Goal</string>
+    <string name="button_start">GO!</string>
+    <string name="button_stop">Stop!</string>
+    <string name="team_b_name">Team B</string>
+    <string name="initial_score">0</string>
+    <string name="team_a_name">Team A</string>
+</resources>
